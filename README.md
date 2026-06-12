@@ -6,7 +6,7 @@
 
 Hello! My name is **Nethmi Nimasha**
 
-I am from Matara, Sri Lanka 🇱🇰 and currently an Undergraduate at University of Colombo School of Computing(UCSC).
+I am from Matara, Sri Lanka and currently an Undergraduate at University of Colombo School of Computing(UCSC).
 
 I have a strong interest in:
 - 💻 Software Engineering  
