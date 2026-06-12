@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=36BCF7&center=true&vCenter=true&width=900&repeat=true&lines=Hi+👋,+I'm+Nethmi+Nimasha;📍+From+Matara,+Sri+Lanka;🎓+UCSC+Undergraduate;✨+Always+Learning+New+Things" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi,+I'm+Nethmi+Nimasha;From+Matara,+Sri+Lanka;(UG)+University+of+Colombo+School+of+Computing;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NethmiNimasha&label=Profile%20views&color=0e75b6&style=flat)
