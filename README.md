@@ -1,10 +1,6 @@
-<h1 align="center">
-  Hi 👋, I'm Nethmi Nimasha
-</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines= Hi+👋+,+ I'm Nethmi Nimasha;Full-Stack+Developer;React+%7C+Node.js+%7C+Flutter;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Nethmi+Nimasha;📍+From+Matara,+Sri+Lanka;🎓+(UG)+University+of+Colombo+School+of+Computing;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
