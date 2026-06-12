@@ -1,3 +1,12 @@
+<h1 align="center">
+  Hi 👋, I'm Nethmi Nimasha
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;React+%7C+Node.js+%7C+Flutter;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
 # Hi 👋, I'm Nethmi Nimasha
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NethmiNimasha&label=Profile%20views&color=0e75b6&style=flat)
