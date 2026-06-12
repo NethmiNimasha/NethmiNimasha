@@ -52,6 +52,7 @@ Git, GitHub, VS Code, Figma
   </a>
 </p>
 
+---
 
 ## 📊 GitHub Activity
 
