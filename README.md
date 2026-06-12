@@ -6,11 +6,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NethmiNimasha&label=Profile%20views&color=0e75b6&style=flat)
 
-## 👩‍💻 About Me
+## Hello! My name is **Nethmi Nimasha**
 
-Hello! My name is **Nethmi Nimasha**
-
-I am from Matara, Sri Lanka and currently an Undergraduate at University of Colombo School of Computing(UCSC).
+I am from Matara, Sri Lanka 🌍 and currently an Undergraduate at University of Colombo School of Computing (UCSC) 🎓.
 
 I have a strong interest in:
 - 💻 Software Engineering  
@@ -49,4 +47,16 @@ Git, GitHub, VS Code, Figma
 ---
 
 ## 📊 GitHub Activity
-(Add GitHub stats later if you want)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NethmiNimasha&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NethmiNimasha&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NethmiNimasha&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NethmiNimasha&theme=react-dark" />
+</p>
