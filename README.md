@@ -32,31 +32,13 @@ I enjoy learning modern technologies and building real-world projects 🚀
 ## 🖥️ Tech Stack
 
 ### Languages
-<p align="left">
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="40" />
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" />
-  <img src="https://cdn.simpleicons.org/java/ED8B00" width="40" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" width="40" />
-</p>
+C, C++, Python, Java, JavaScript, PHP
 
 ### Web
-<p align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="40" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" />
-  <img src="https://cdn.simpleicons.org/express/000000" width="40" />
-</p>
+HTML, CSS, React, Node.js, Express
 
 ### Tools
-<p align="left">
-  <img src="https://cdn.simpleicons.org/git/F05032" width="40" />
-  <img src="https://cdn.simpleicons.org/github/181717" width="40" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" />
-</p>
+Git, GitHub, VS Code, Figma
 
 ---
 
