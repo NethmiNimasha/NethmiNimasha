@@ -46,7 +46,6 @@ Git, GitHub, VS Code, Figma
   <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" />
   </a>
-
   <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" />
   </a>
