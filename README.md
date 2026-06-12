@@ -27,7 +27,6 @@ I enjoy learning modern technologies and building real-world projects 🚀
 
 ---
 
-## 💻 Tech Stack
 
 ## 🖥️ Tech Stack
 
