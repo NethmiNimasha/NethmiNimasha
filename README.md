@@ -44,7 +44,7 @@ Git, GitHub, VS Code, Figma
 
 <p align="left">
   <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" />
   </a>
 
   <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
