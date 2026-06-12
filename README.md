@@ -51,7 +51,7 @@ Git, GitHub, VS Code, Figma
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" />
   </a>
 </p>
----
+
 
 ## 📊 GitHub Activity
 
