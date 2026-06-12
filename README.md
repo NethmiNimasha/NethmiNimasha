@@ -27,7 +27,7 @@ I enjoy learning modern technologies and building real-world projects 🚀
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 C, C++, Python, Java, JavaScript, PHP
@@ -41,8 +41,16 @@ Git, GitHub, VS Code, Figma
 ---
 
 ## 🌐 Social Media
-- Facebook  
-- Instagram  
+
+<p align="left">
+  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p> 
 
 ---
 
