@@ -91,9 +91,6 @@ Explore my repositories to discover my academic projects, coding exercises, and 
 
 ## 🐍 Contribution Graph
 
-
-## 🐍 Contribution Graph
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/NethmiNimasha/NethmiNimasha/output/github-contribution-grid-snake-dark.svg"
