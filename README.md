@@ -51,7 +51,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker,figma" alt="Development tools" />
 </p>
 
-> Update this section to include only technologies you have used or are currently learning.
 
 ## 🚀 Featured Projects
 
@@ -99,7 +98,6 @@ Explore my repositories to discover my academic projects, coding exercises, and 
   />
 </p>
 
-> To display the snake animation, configure a GitHub Actions workflow in your profile repository to generate and publish the SVG to the `output` branch.
 
 ## 🌱 Currently Focusing On
 
@@ -115,7 +113,7 @@ Explore my repositories to discover my academic projects, coding exercises, and 
   <a href="https://github.com/NethmiNimasha">
     <img src="https://img.shields.io/badge/GitHub-NethmiNimasha-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="www.linkedin.com/in/nethmi-nimasha-50b973305">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
