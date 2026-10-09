@@ -113,9 +113,9 @@ Explore my repositories to discover my academic projects, coding exercises, and 
   <a href="https://github.com/NethmiNimasha">
     <img src="https://img.shields.io/badge/GitHub-NethmiNimasha-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="www.linkedin.com/in/nethmi-nimasha-50b973305">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/nethmi-nimasha-50b973305/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
 </p>
 
 <p align="center">
