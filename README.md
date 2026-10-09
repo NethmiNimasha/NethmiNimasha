@@ -22,7 +22,7 @@
 * 💻 Interested in **Software Engineering and Web Development**
 * 🌱 Currently improving my programming, problem-solving, and software development skills
 * 🚀 Working on academic projects and real-world software solutions
-* 🎯 My goal is to become a Software Engineer and secure a software engineering internship
+* 🎯 My goal is to become a Software Engineer 
 * ✨ I believe in learning continuously, building consistently, and improving every day
 
 ## 🛠️ Tech Stack
