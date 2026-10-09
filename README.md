@@ -91,8 +91,15 @@ Explore my repositories to discover my academic projects, coding exercises, and 
 
 ## 🐍 Contribution Graph
 
+
+## 🐍 Contribution Graph
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NethmiNimasha/NethmiNimasha/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/NethmiNimasha/NethmiNimasha/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
+  />
 </p>
 
 > To display the snake animation, configure a GitHub Actions workflow in your profile repository to generate and publish the SVG to the `output` branch.
