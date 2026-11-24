@@ -78,14 +78,14 @@ Explore my repositories to discover my academic projects, coding exercises, and 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NethmiNimasha&show_icons=true&theme=transparent&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NethmiNimasha&layout=compact&theme=transparent&hide_border=true&title_color=D4AF37&text_color=FFFFFF" alt="Most used languages" />
+  <img height="180" src="./profile/stats.svg" alt="GitHub statistics" />
+  <img height="180" src="./profile/top-langs.svg" alt="Most used languages" />
 </p>
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NethmiNimasha&theme=transparent&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub contribution streak" />
+  <img src="./profile/streak.svg" alt="GitHub contribution streak" />
 </p>
 
 ## 🐍 Contribution Graph

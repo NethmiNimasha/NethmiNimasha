@@ -1,0 +1,44 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    # Runs daily at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual run from Actions tab
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create profile directory
+        run: mkdir -p profile
+
+      - name: Download GitHub Stats SVGs
+        run: |
+          curl -f -s -S "https://github-readme-stats.vercel.app/api?username=NethmiNimasha&show_icons=true&theme=transparent&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF" -o profile/stats.svg || true
+          curl -f -s -S "https://github-readme-stats.vercel.app/api/top-langs/?username=NethmiNimasha&layout=compact&theme=transparent&hide_border=true&title_color=D4AF37&text_color=FFFFFF" -o profile/top-langs.svg || true
+          curl -f -s -S "https://streak-stats.demolab.com?user=NethmiNimasha&theme=transparent&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&dates=AAAAAA" -o profile/streak.svg || true
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/
+          if git diff --staged --quiet; then
+            echo "No changes in stats to commit."
+          else
+            git commit -m "Update GitHub stats"
+            git pull --rebase origin main || true
+            git push origin main
+          fi
